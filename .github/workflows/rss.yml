@@ -1,0 +1,78 @@
+name: Update RSS feeds
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - collector.py
+      - sources.json
+      - requirements.txt
+      - tests/**
+      - .github/workflows/rss.yml
+
+concurrency:
+  group: rss-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout default branch
+        uses: actions/checkout@v6
+        with:
+          ref: main
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Test parsers and feeds
+        run: python -m unittest discover -s tests -v
+      - name: Read Pages URL
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Collect public posts and build RSS
+        id: collect
+        continue-on-error: true
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+          RSS_CONTACT_URL: https://github.com/${{ github.repository }}
+        run: python collector.py
+      - name: Save collection history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update RSS collection history [skip ci]"
+            git push origin HEAD:main
+          fi
+      - name: Upload RSS website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+          retention-days: 1
+      - name: Publish RSS website
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Report unexpected collection failure after publishing healthy feeds
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo "일부 수집이 실패했습니다. 정상 피드와 기존 데이터는 게시했습니다. 사이트의 수집 상태와 위 수집 로그를 확인하세요."
+          exit 1
