@@ -1,0 +1,37 @@
+{
+  "max_items": 200,
+  "sources": [
+    {
+      "id": "kptu",
+      "name": "공공운수노조",
+      "section": "주요소식",
+      "kind": "kptu",
+      "url": "https://www.kptu.net/board/list.aspx?mid=BCB52DDC",
+      "expected_robots_block": true
+    },
+    {
+      "id": "kmwu",
+      "name": "금속노조",
+      "section": "보도자료·성명",
+      "kind": "kmwu",
+      "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12",
+      "fetch_url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&device=pc",
+      "include_pinned": false
+    },
+    {
+      "id": "leftall",
+      "name": "전국결집",
+      "section": "소식지",
+      "kind": "leftall",
+      "url": "https://leftall.com/bbs/board.php?bo_table=newsletter"
+    },
+    {
+      "id": "climatejusticealliance",
+      "name": "기후정의동맹",
+      "section": "알립니다·성명 및 자료·활동 소식",
+      "kind": "oopy",
+      "url": "https://www.climatejusticealliance.kr/",
+      "collections": ["알립니다", "성명 및 자료", "소식"]
+    }
+  ]
+}
