@@ -1,0 +1,640 @@
+{
+  "robots": {
+    "https://kmwu.kr": {
+      "checked_at": 1791236944.588497,
+      "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
+    },
+    "https://leftall.com": {
+      "checked_at": 1791237125.131288,
+      "text": "User-agent: *\nAllow: /\n"
+    },
+    "https://www.climatejusticealliance.kr": {
+      "checked_at": 1791237127.882638,
+      "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
+    },
+    "https://www.kptu.net": {
+      "checked_at": 1791236944.544404,
+      "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
+    }
+  },
+  "sources": {
+    "climatejusticealliance": {
+      "fetched_count": 30,
+      "items": [
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3e98542c-4cda-8069-a3df-de36323ca00f",
+          "published": "2026-09-28T12:00:42.709000+09:00",
+          "summary": "",
+          "title": "“메가프로젝트 정세에 맞선 기후정의 활동가대회”, 잘 치뤘습니다!",
+          "url": "https://www.climatejusticealliance.kr/3e98542c-4cda-8069-a3df-de36323ca00f"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3e98542c-4cda-804f-b8c3-e95cc975707d",
+          "published": "2026-09-28T11:54:49.989000+09:00",
+          "summary": "",
+          "title": "3대 메가프로젝트, 이대로 괜찮은가? 토론회",
+          "url": "https://www.climatejusticealliance.kr/3e98542c-4cda-804f-b8c3-e95cc975707d"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3e98542c-4cda-8061-bfb1-debb2ad92c08",
+          "published": "2026-09-28T11:52:02.983000+09:00",
+          "summary": "",
+          "title": "[자료] 3대 메가프로젝트, 이대로 괜찮은가? 토론회",
+          "url": "https://www.climatejusticealliance.kr/3e98542c-4cda-8061-bfb1-debb2ad92c08"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3e98542c-4cda-800b-9c55-efca1bb1c486",
+          "published": "2026-09-28T11:05:33.867000+09:00",
+          "summary": "",
+          "title": "[신문] 개발의 폭주를 멈추고, 모두의 삶을 풍요롭게",
+          "url": "https://www.climatejusticealliance.kr/3e98542c-4cda-800b-9c55-efca1bb1c486"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3e48542c-4cda-80f0-afe3-d9c12bb636a7",
+          "published": "2026-09-23T13:57:28.107000+09:00",
+          "summary": "",
+          "title": "919기후정의행진 🔥 지구를 불태우는 폭주를 멈춰라",
+          "url": "https://www.climatejusticealliance.kr/3e48542c-4cda-80f0-afe3-d9c12bb636a7"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3ca8542c-4cda-80a1-9d42-e6e2dbed986e",
+          "published": "2026-08-28T20:13:55.738000+09:00",
+          "summary": "",
+          "title": "[소책자] 메가프로젝트 10문 10답, 기후위기와 불평등 악화하는 폭주를 멈춰라",
+          "url": "https://www.climatejusticealliance.kr/3ca8542c-4cda-80a1-9d42-e6e2dbed986e"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3c48542c-4cda-807e-960e-d3d05fc1be7d",
+          "published": "2026-08-22T15:09:42.675000+09:00",
+          "summary": "",
+          "title": "[자료집] 메가프로젝트 정세에 맞선 기후정의 활동가 대회",
+          "url": "https://www.climatejusticealliance.kr/3c48542c-4cda-807e-960e-d3d05fc1be7d"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3ba8542c-4cda-803f-9905-ca02ade9b700",
+          "published": "2026-08-12T09:53:40.120000+09:00",
+          "summary": "",
+          "title": "[긴급요청] 가덕도신공항 기본계획 취소 소송 원고 적격 보장을 위한 집중행동 연대 및 연명 요청",
+          "url": "https://www.climatejusticealliance.kr/3ba8542c-4cda-803f-9905-ca02ade9b700"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3b28542c-4cda-8063-97d2-e316ab5d059e",
+          "published": "2026-08-04T13:05:32.044000+09:00",
+          "summary": "",
+          "title": "[성명] ‘애초에 짓지 말았어야할 곳’ 김성환 장관은 풍천리 양수발전소 백지화 결단하라",
+          "url": "https://www.climatejusticealliance.kr/3b28542c-4cda-8063-97d2-e316ab5d059e"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3ae8542c-4cda-8059-856e-c257d73bb9a6",
+          "published": "2026-07-31T23:57:40.067000+09:00",
+          "summary": "",
+          "title": "〈베어지기 전에 풍천리〉 청와대 앞 투쟁문화제에 초대합니다",
+          "url": "https://www.climatejusticealliance.kr/3ae8542c-4cda-8059-856e-c257d73bb9a6"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3ac8542c-4cda-8002-8bea-d2ded7f02303",
+          "published": "2026-07-29T15:28:04.854000+09:00",
+          "summary": "",
+          "title": "⚡️메가프로젝트 정세에 맞선 기후정의 활동가대회 ✊",
+          "url": "https://www.climatejusticealliance.kr/3ac8542c-4cda-8002-8bea-d2ded7f02303"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3a38542c-4cda-8078-b6a5-c0110cb6f576",
+          "published": "2026-07-20T13:45:31.931000+09:00",
+          "summary": "",
+          "title": "동·단·소 #12 류승민 단비님을 소개합니다.",
+          "url": "https://www.climatejusticealliance.kr/3a38542c-4cda-8078-b6a5-c0110cb6f576"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3a38542c-4cda-8047-bf83-e5d3057529ed",
+          "published": "2026-07-20T11:47:38.064000+09:00",
+          "summary": "",
+          "title": "동맹이야기 이모저모 #20 새삼스럽게 ‘동지’를 확인한 시간",
+          "url": "https://www.climatejusticealliance.kr/3a38542c-4cda-8047-bf83-e5d3057529ed"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3a38542c-4cda-8079-9bd4-cdac0ff30ce8",
+          "published": "2026-07-20T11:41:40.327000+09:00",
+          "summary": "",
+          "title": "동맹이야기 이모저모 #21 창원에서 열어낸 정의로운 전환 투쟁!",
+          "url": "https://www.climatejusticealliance.kr/3a38542c-4cda-8079-9bd4-cdac0ff30ce8"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3958542c-4cda-800d-b59c-f7b9e2e20c2d",
+          "published": "2026-07-06T12:28:22.669000+09:00",
+          "summary": "",
+          "title": "풍천리 양수발전소 반대 대책위-김성환 장관 간담회에 함께 했습니다.",
+          "url": "https://www.climatejusticealliance.kr/3958542c-4cda-800d-b59c-f7b9e2e20c2d"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3918542c-4cda-806b-acdd-c3a316594456",
+          "published": "2026-07-02T17:45:26.124000+09:00",
+          "summary": "",
+          "title": "[성명] 반도체 메가 프로젝트, 폭주를 멈춰라 - 반도체산업의 정의로운 전환을 위한 공동행동",
+          "url": "https://www.climatejusticealliance.kr/3918542c-4cda-806b-acdd-c3a316594456"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3918542c-4cda-8023-9626-e87d28669e47",
+          "published": "2026-07-02T15:52:44.200000+09:00",
+          "summary": "",
+          "title": "[성명] 한정애 의원이 대표 발의한 「물관리기본법 일부개정법률안」 등 3법의 국회 통과를 반대한다 / 반도체산업의 정의로운전환을 위한 공동행동",
+          "url": "https://www.climatejusticealliance.kr/3918542c-4cda-8023-9626-e87d28669e47"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "38f8542c-4cda-80e5-a151-cbadea9b0584",
+          "published": "2026-06-30T10:33:41.013000+09:00",
+          "summary": "",
+          "title": "[성명] 3대 메가 프로젝트에 브레이크를 걸어야 한다 - 반도체와 AI 산업을 위한 이재명 정부의 기후부정의 선언",
+          "url": "https://www.climatejusticealliance.kr/38f8542c-4cda-80e5-a151-cbadea9b0584"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "38e8542c-4cda-8083-af99-dd1066e06897",
+          "published": "2026-06-29T14:38:21.795000+09:00",
+          "summary": "",
+          "title": "2026년 9월 기후정의행진 조직위원회에 함께 해 주세요",
+          "url": "https://www.climatejusticealliance.kr/38e8542c-4cda-8083-af99-dd1066e06897"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3818542c-4cda-80d7-adc9-cf7baf8c3dc7",
+          "published": "2026-06-16T18:17:37.220000+09:00",
+          "summary": "",
+          "title": "[자료] 김충현 중대재해 1년, 현장은 바뀌었나? 토론회 자료집",
+          "url": "https://www.climatejusticealliance.kr/3818542c-4cda-80d7-adc9-cf7baf8c3dc7"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3818542c-4cda-80c9-97b4-ca87a75d230f",
+          "published": "2026-06-16T17:32:06.332000+09:00",
+          "summary": "",
+          "title": "빛을 만드는 노동자 고 김충현 노동자 1주기 추모대회에 함께 했습니다.",
+          "url": "https://www.climatejusticealliance.kr/3818542c-4cda-80c9-97b4-ca87a75d230f"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3818542c-4cda-80ef-9a4a-e55c7d7aa111",
+          "published": "2026-06-16T17:20:35.004000+09:00",
+          "summary": "",
+          "title": "서울인권영화제에 프로그램 협력으로 함께 했습니다!",
+          "url": "https://www.climatejusticealliance.kr/3818542c-4cda-80ef-9a4a-e55c7d7aa111"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3818542c-4cda-804a-9f1d-faf9f1026030",
+          "published": "2026-06-16T16:51:12.126000+09:00",
+          "summary": "",
+          "title": "613 정의로운전환 대행진, 힘차게 마쳤습니다!",
+          "url": "https://www.climatejusticealliance.kr/3818542c-4cda-804a-9f1d-faf9f1026030"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3818542c-4cda-8079-9528-ebf225a76201",
+          "published": "2026-06-16T14:40:45.437000+09:00",
+          "summary": "",
+          "title": "613 대행진을 향하며, ‘빛을 만드는 사람들’ 함께 보았습니다!",
+          "url": "https://www.climatejusticealliance.kr/3818542c-4cda-8079-9528-ebf225a76201"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "36c8542c-4cda-80f2-85a8-e68cfdc58a21",
+          "published": "2026-05-26T16:39:20.170000+09:00",
+          "summary": "",
+          "title": "팔레스타인 긴급행동, 계속되는 가자폭격, 항해활동가 고문폭력 : 전쟁범죄 테러집단 이스라엘 규탄한다",
+          "url": "https://www.climatejusticealliance.kr/36c8542c-4cda-80f2-85a8-e68cfdc58a21"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "36c8542c-4cda-80ce-9f46-c06623c84cbd",
+          "published": "2026-05-26T16:37:35.980000+09:00",
+          "summary": "",
+          "title": "[태안화력발전소 김충현 노동자 1주기 추모주간 안내]",
+          "url": "https://www.climatejusticealliance.kr/36c8542c-4cda-80ce-9f46-c06623c84cbd"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3698542c-4cda-8028-a4cf-db8ed91583f8",
+          "published": "2026-05-23T22:42:46.422000+09:00",
+          "summary": "",
+          "title": "🚌613 정의로운전환 노동자시민 대행진 가기전에 함께 봐요",
+          "url": "https://www.climatejusticealliance.kr/3698542c-4cda-8028-a4cf-db8ed91583f8"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3698542c-4cda-8014-8a0d-c8ac38b76996",
+          "published": "2026-05-23T22:41:39.319000+09:00",
+          "summary": "",
+          "title": "❤️‍🔥5.29 서울여의도 탈핵유권자선언대회",
+          "url": "https://www.climatejusticealliance.kr/3698542c-4cda-8014-8a0d-c8ac38b76996"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3628542c-4cda-8063-bac7-e390549276f5",
+          "published": "2026-05-16T18:42:19.547000+09:00",
+          "summary": "",
+          "title": "[자료]260507 에너지 전환, 시장을 넘어 공공으로 국회 토론회",
+          "url": "https://www.climatejusticealliance.kr/3628542c-4cda-8063-bac7-e390549276f5"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "3608542c-4cda-80e4-a595-c229f69efcfa",
+          "published": "2026-05-14T15:55:56.960000+09:00",
+          "summary": "",
+          "title": "[함께갑시다!] 613 정의로운 전환 노동자시민 대행진 참가단 (서울)",
+          "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
+        }
+      ],
+      "last_attempt": "2026-10-05T21:49:04+00:00",
+      "last_success": "2026-10-05T21:49:04+00:00",
+      "message": "정상 수집",
+      "new_count": 30,
+      "status": "ok"
+    },
+    "kmwu": {
+      "fetched_count": 13,
+      "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220820",
+          "published": "2026-10-05T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 고공에 오른 한화오션 하청노동자 투쟁에 연대하는 사민사회단체 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220820"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220819",
+          "published": "2026-10-02T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 한화오션 원청교섭 공고에 대한 입장",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220819"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220818",
+          "published": "2026-10-02T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 광주글로벌모터스 노조탄압 압수수색 민형배 시장 직접 해결 촉구 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220818"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220817",
+          "published": "2026-10-02T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한화오션 집행정지 사건 기각 결정...노조 \"사측 불법 중단하고 교섭 응하라\"",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220817"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220816",
+          "published": "2026-10-02T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 광주글로벌모터스 노조탄압 압수수색 민형배 시장 직접 해결 촉구 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220816"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220815",
+          "published": "2026-10-01T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 한화오션은 불법 운운 말라 -하청 노동자 고공 투쟁 관련 사측 입장에 대한 반박",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220815"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220814",
+          "published": "2026-10-01T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한화오션 하청노동자 고공농성 돌입, 원청교섭 촉구 긴급 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220814"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220813",
+          "published": "2026-10-01T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 고용노동부‘노조탄압’ 광주글로벌모터스 압수수색",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220813"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220812",
+          "published": "2026-09-30T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 한화오션 하청노동자 고공농성 돌입, 원청교섭 촉구 긴급 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220812"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220811",
+          "published": "2026-09-30T00:00:00+09:00",
+          "summary": "",
+          "title": "[영상자료] \"이제는 제대로 살고 싶습니다\" 한화오션 하청 노동자 고공 투쟁 돌입",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220811"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220810",
+          "published": "2026-09-30T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 한화오션 하청 노동자 고공 투쟁, 금속노조가 엄호한다",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220810"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220809",
+          "published": "2026-09-30T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한국지엠 지속가능성 및 미래차 생산 기반 확보 국회 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220809"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "220808",
+          "published": "2026-09-30T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한화오션 하청 노동자, 크레인 및 공장 옥상 고공농성 돌입",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
+        }
+      ],
+      "last_attempt": "2026-10-05T21:49:04+00:00",
+      "last_success": "2026-10-05T21:49:04+00:00",
+      "message": "정상 수집",
+      "new_count": 13,
+      "status": "ok"
+    },
+    "kptu": {
+      "items": [],
+      "last_attempt": "2026-10-05T21:49:04+00:00",
+      "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
+      "new_count": 0,
+      "status": "blocked"
+    },
+    "leftall": {
+      "fetched_count": 15,
+      "items": [
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "87",
+          "published": "2026-10-01T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 용혜인이 쏘아올린 정치개혁 / 2026-09-28",
+          "url": "https://leftall.com/newsletter/87"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "86",
+          "published": "2026-09-28T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 이젠 현장의 중심으로!! / 2026-09-28",
+          "url": "https://leftall.com/newsletter/86"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "85",
+          "published": "2026-09-28T00:00:00+09:00",
+          "summary": "",
+          "title": "[금속결집 브리프 2026.14호] 투쟁의 역사를 외면한 경사노위 참여 반대! - 10월7일 민주노총 임시대…",
+          "url": "https://leftall.com/newsletter/85"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "84",
+          "published": "2026-09-28T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 2026 좌파활동가대회 / 2026-09-28",
+          "url": "https://leftall.com/newsletter/84"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "83",
+          "published": "2026-09-28T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 서울결집~ 연대강화! 확대강화! / 2026-09-28",
+          "url": "https://leftall.com/newsletter/83"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "81",
+          "published": "2026-08-27T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 세우타 사태 – 미래가 안보이는 아프리카의 절망 / 2026-08-27",
+          "url": "https://leftall.com/newsletter/81"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "80",
+          "published": "2026-08-25T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 노동조합의 힘은 노동자 스스로 자신의 노동조건을 결정하는 과정에 참여해야 / 2026-08-…",
+          "url": "https://leftall.com/newsletter/80"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "79",
+          "published": "2026-08-14T00:00:00+09:00",
+          "summary": "",
+          "title": "[노동자의 눈으로 세상보기] 관념적 정치 구호를 넘어, 현장의 삶을 바꾸는 노동자의 통일을 향해!",
+          "url": "https://leftall.com/newsletter/79"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "78",
+          "published": "2026-08-07T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 미국의 민주사회주의 – 자본의 심장에 붉은 장미가 폈다 / 2026-08-06",
+          "url": "https://leftall.com/newsletter/78"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "77",
+          "published": "2026-08-03T00:00:00+09:00",
+          "summary": "",
+          "title": "[노동자의 눈으로 세상보기] 자본과의 100% 합의는 가능한가?",
+          "url": "https://leftall.com/newsletter/77"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "76",
+          "published": "2026-07-29T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 탐구학교를 탐구하다2 / 2026-07-26",
+          "url": "https://leftall.com/newsletter/76"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "75",
+          "published": "2026-07-27T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 지역에서 전망을 찾다 / 2026-07-26",
+          "url": "https://leftall.com/newsletter/75"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "73",
+          "published": "2026-07-27T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 0.4%의 벽을 넘어 민주노조를 지킨다 / 2026-07-26",
+          "url": "https://leftall.com/newsletter/73"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "72",
+          "published": "2026-07-16T00:00:00+09:00",
+          "summary": "",
+          "title": "[노동자의 눈으로 세상보기] ‘3대 메가 프로젝트’라는 신기루, 실패한 ‘낙수효과’의 변형일 뿐이다!",
+          "url": "https://leftall.com/newsletter/72"
+        },
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-05T21:49:04+00:00",
+          "id": "71",
+          "published": "2026-06-30T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 논평- 5극 3특은 자본의 과잉축적 해소를 위한 공간적 전략 / 2026-06-28",
+          "url": "https://leftall.com/newsletter/71"
+        }
+      ],
+      "last_attempt": "2026-10-05T21:49:04+00:00",
+      "last_success": "2026-10-05T21:49:04+00:00",
+      "message": "정상 수집",
+      "new_count": 15,
+      "status": "ok"
+    }
+  },
+  "version": 1
+}
