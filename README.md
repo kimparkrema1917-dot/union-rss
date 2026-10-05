@@ -4,6 +4,17 @@
 GitHub Actions에서 수집하고 GitHub Pages에서 피드와 구독 안내 페이지를 제공합니다.
 API 키, AI 서비스, 별도 데이터베이스는 필요하지 않습니다.
 
+## 운영 중인 RSS
+
+- [구독 안내와 수집 상태](https://kimparkrema1917-dot.github.io/union-rss/)
+- [공공운수노조 RSS](https://kimparkrema1917-dot.github.io/union-rss/feeds/kptu.xml) — 현재 수집 보류
+- [금속노조 RSS](https://kimparkrema1917-dot.github.io/union-rss/feeds/kmwu.xml)
+- [전국결집 RSS](https://kimparkrema1917-dot.github.io/union-rss/feeds/leftall.xml)
+- [기후정의동맹 RSS](https://kimparkrema1917-dot.github.io/union-rss/feeds/climatejusticealliance.xml)
+- [네 피드 한 번에 가져오기(OPML)](https://kimparkrema1917-dot.github.io/union-rss/feeds.opml)
+
+2026-10-06 GitHub Actions 첫 수집과 Pages 배포를 완료했습니다. 매시간 17분 자동 실행으로 설정되어 있으며 실제 시작 시각은 GitHub 대기열에 따라 늦어질 수 있습니다. 아래 설치 안내는 이 저장소를 복사해 별도로 운영할 때 사용합니다.
+
 ## 수집 대상과 피드
 
 | 단체 | 수집 범위 | RSS 파일 |
@@ -74,7 +85,7 @@ https://YOUR_ID.github.io/union-rss/feeds/leftall.xml
 https://YOUR_ID.github.io/union-rss/feeds/climatejusticealliance.xml
 ```
 
-각 주소를 RSS 리더에 추가하세요. 사이트 첫 화면에서 주소를 찾을 수 있고, `feeds.opml`을 가져오면 네 피드를 한 번에 등록할 수 있습니다. **위 주소의 YOUR_ID는 예시이며 실제 공개 주소는 아직 생성되지 않았습니다.**
+각 주소를 RSS 리더에 추가하세요. 사이트 첫 화면에서 주소를 찾을 수 있고, `feeds.opml`을 가져오면 네 피드를 한 번에 등록할 수 있습니다. **위 주소의 YOUR_ID는 설치 예시입니다. 이 저장소의 실제 구독 주소는 문서 상단에 있습니다.**
 
 ## 무엇이 수집되나요?
 

@@ -10,6 +10,11 @@
 - 자동 실행 설정 두 개의 YAML 문법 확인.
 - 로컬 브라우저에서 구독 페이지와 네 피드 링크·수집 상태 확인.
 
-GitHub 계정에 업로드하거나 GitHub Actions/Pages에서 실제 배포한 상태는 아닙니다. GitHub 실행 검증은 README의 설정 후 진행해야 합니다.
+- GitHub 공개 저장소에 14개 소스 파일을 올리고 로컬 원본과 일치함을 확인.
+- GitHub Actions 자동 검증 및 [첫 RSS 수집·배포](https://github.com/kimparkrema1917-dot/union-rss/actions/runs/37381839093) 성공.
+- [실제 공개 사이트](https://kimparkrema1917-dot.github.io/union-rss/)에서 수집 상태와 게시물 확인.
+- 네 RSS 주소 모두 HTTP 200, XML 파싱 및 GUID 중복 없음 확인. 공공운수노조 0건, 금속노조 13건, 전국결집 15건, 기후정의동맹 30건.
+- 공개 OPML에 실제 주소의 네 피드가 포함됨을 확인.
+- 매시간 17분 예약 실행 설정을 업로드함. 장기간 운영 결과는 아직 검증하지 않음.
 
 첫 페이지의 새 글 감지가 목적이며, 모든 과거 게시물의 완전한 수집을 보장하지 않습니다.
