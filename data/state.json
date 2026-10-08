@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1791424533.333311,
-      "last_request": 1791424712.3770638,
+      "last_request": 1791449858.2812772,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1791424714.794652,
-      "last_request": 1791424715.902725,
+      "last_request": 1791449859.7523003,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1791424717.8403273,
-      "last_request": 1791424719.0436988,
+      "last_request": 1791449860.9813416,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -25,6 +25,16 @@
     "climatejusticealliance": {
       "fetched_count": 30,
       "items": [
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-08T08:57:38+00:00",
+          "id": "3f38542c-4cda-80d4-90ba-d9794b9f547a",
+          "published": "2026-10-08T13:51:25.831000+09:00",
+          "summary": "",
+          "title": "가덕도신공항 백지화 촉구 서울 집중행동",
+          "url": "https://www.climatejusticealliance.kr/3f38542c-4cda-80d4-90ba-d9794b9f547a"
+        },
         {
           "category": "활동 소식",
           "date_basis": "page_created",
@@ -326,15 +336,65 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-08T01:55:31+00:00",
-      "last_success": "2026-10-08T01:55:31+00:00",
+      "last_attempt": "2026-10-08T08:57:38+00:00",
+      "last_success": "2026-10-08T08:57:38+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     },
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-08T08:57:38+00:00",
+          "id": "220831",
+          "published": "2026-10-08T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 만도 고 김승모 중대재해 63일차, 밤샘 마라톤 협상 끝 유족 합의 (누락 자료 업로드)",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220831"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-08T08:57:38+00:00",
+          "id": "220830",
+          "published": "2026-10-08T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 고 김승모, 이제야 보냅니다 (누락 자료 업로드)",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220830"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-08T08:57:38+00:00",
+          "id": "220829",
+          "published": "2026-10-08T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] \"엄중 처벌과 안전 개선을\" 승강기안전기술연구원 중대재해 국회 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220829"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-08T08:57:38+00:00",
+          "id": "220828",
+          "published": "2026-10-08T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 원청교섭 현장 안착화 및 노동부 역할 촉구 공공운수노조·금속노조 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220828"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-08T08:57:38+00:00",
+          "id": "220827",
+          "published": "2026-10-08T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 한화오션지회장 골리앗크레인 고공농성 돌입",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220827"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -526,15 +586,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-08T01:55:31+00:00",
-      "last_success": "2026-10-08T01:55:31+00:00",
+      "last_attempt": "2026-10-08T08:57:38+00:00",
+      "last_success": "2026-10-08T08:57:38+00:00",
       "message": "정상 수집",
-      "new_count": 1,
+      "new_count": 5,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-08T01:55:31+00:00",
+      "last_attempt": "2026-10-08T08:57:38+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -693,8 +753,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-08T01:55:31+00:00",
-      "last_success": "2026-10-08T01:55:31+00:00",
+      "last_attempt": "2026-10-08T08:57:38+00:00",
+      "last_success": "2026-10-08T08:57:38+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
