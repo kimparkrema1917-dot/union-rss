@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1791336727.5932324,
-      "last_request": 1791410324.1601062,
+      "checked_at": 1791424533.333311,
+      "last_request": 1791424712.3770638,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
-      "checked_at": 1791336908.9969053,
-      "last_request": 1791410325.570552,
+      "checked_at": 1791424714.794652,
+      "last_request": 1791424715.902725,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1791336912.7858977,
-      "last_request": 1791410326.7536304,
+      "checked_at": 1791424717.8403273,
+      "last_request": 1791424719.0436988,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1791336726.675453,
-      "last_request": 1791336725.830893,
+      "checked_at": 1791424532.3766859,
+      "last_request": 1791424531.4367633,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -326,8 +326,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-07T21:58:44+00:00",
-      "last_success": "2026-10-07T21:58:44+00:00",
+      "last_attempt": "2026-10-08T01:55:31+00:00",
+      "last_success": "2026-10-08T01:55:31+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -335,6 +335,16 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-08T01:55:31+00:00",
+          "id": "220826",
+          "published": "2026-10-08T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한화오션 하청노동자 고공농성 일부 해제 “첫 원청교섭, 사측은 진정성 보여야”",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220826"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -516,15 +526,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-07T21:58:44+00:00",
-      "last_success": "2026-10-07T21:58:44+00:00",
+      "last_attempt": "2026-10-08T01:55:31+00:00",
+      "last_success": "2026-10-08T01:55:31+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-07T21:58:44+00:00",
+      "last_attempt": "2026-10-08T01:55:31+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -683,8 +693,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-07T21:58:44+00:00",
-      "last_success": "2026-10-07T21:58:44+00:00",
+      "last_attempt": "2026-10-08T01:55:31+00:00",
+      "last_success": "2026-10-08T01:55:31+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
