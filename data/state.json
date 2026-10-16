@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1792102641.439542,
-      "last_request": 1792113618.562761,
+      "last_request": 1792134543.1544547,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1792113620.8551774,
-      "last_request": 1792113621.9908931,
+      "last_request": 1792134544.6661263,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1792102824.1902866,
-      "last_request": 1792113623.1060095,
+      "last_request": 1792134545.7907033,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -336,8 +336,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-16T01:20:18+00:00",
-      "last_success": "2026-10-16T01:20:18+00:00",
+      "last_attempt": "2026-10-16T07:09:03+00:00",
+      "last_success": "2026-10-16T07:09:03+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -345,6 +345,16 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-16T07:09:03+00:00",
+          "id": "220841",
+          "published": "2026-10-16T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] \"반도체 대기업은 메가 특혜, 소부장 노동자는 메가 탄압\" 소부장 노동기본권 말살 규탄 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220841"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -676,15 +686,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-16T01:20:18+00:00",
-      "last_success": "2026-10-16T01:20:18+00:00",
+      "last_attempt": "2026-10-16T07:09:03+00:00",
+      "last_success": "2026-10-16T07:09:03+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-16T01:20:18+00:00",
+      "last_attempt": "2026-10-16T07:09:03+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -863,8 +873,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-16T01:20:18+00:00",
-      "last_success": "2026-10-16T01:20:18+00:00",
+      "last_attempt": "2026-10-16T07:09:03+00:00",
+      "last_success": "2026-10-16T07:09:03+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
