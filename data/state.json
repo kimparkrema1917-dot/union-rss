@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1792372569.5308104,
-      "last_request": 1792372748.7200105,
+      "last_request": 1792390623.4426506,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
-      "checked_at": 1792302790.895746,
-      "last_request": 1792372750.1169274,
+      "checked_at": 1792390626.1185772,
+      "last_request": 1792390627.1821382,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1792372752.0870223,
-      "last_request": 1792372753.097603,
+      "last_request": 1792390628.4129791,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -336,8 +336,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-19T01:16:07+00:00",
-      "last_success": "2026-10-19T01:16:07+00:00",
+      "last_attempt": "2026-10-19T06:17:03+00:00",
+      "last_success": "2026-10-19T06:17:03+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -345,6 +345,36 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-19T06:17:03+00:00",
+          "id": "220844",
+          "published": "2026-10-19T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 광주글로벌모터스 부당노동행위 구속 수사! 문제해결 촉구 청와대 앞 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220844"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-19T06:17:03+00:00",
+          "id": "220843",
+          "published": "2026-10-19T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] \"반도체 대기업은 메가 특혜, 소부장 노동자는 메가 탄압\" 소부장 노동기본권 말살 규탄 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220843"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-19T06:17:03+00:00",
+          "id": "220842",
+          "published": "2026-10-19T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 크레인 위 목숨 걸고 외치는 노동자의 절규, 조선 자본은 들어라!",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220842"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -686,15 +716,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-19T01:16:07+00:00",
-      "last_success": "2026-10-19T01:16:07+00:00",
+      "last_attempt": "2026-10-19T06:17:03+00:00",
+      "last_success": "2026-10-19T06:17:03+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 3,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-19T01:16:07+00:00",
+      "last_attempt": "2026-10-19T06:17:03+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -873,8 +903,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-19T01:16:07+00:00",
-      "last_success": "2026-10-19T01:16:07+00:00",
+      "last_attempt": "2026-10-19T06:17:03+00:00",
+      "last_success": "2026-10-19T06:17:03+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
