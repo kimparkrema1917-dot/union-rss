@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1792372569.5308104,
-      "last_request": 1792453278.8419104,
+      "checked_at": 1792471828.4519806,
+      "last_request": 1792472007.224363,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1792390626.1185772,
-      "last_request": 1792453280.331327,
+      "last_request": 1792472008.702778,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1792372752.0870223,
-      "last_request": 1792453281.4706929,
+      "checked_at": 1792472011.5797408,
+      "last_request": 1792472012.4223907,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1792372568.7196517,
-      "last_request": 1792372567.6342704,
+      "checked_at": 1792471827.2240343,
+      "last_request": 1792471826.232485,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -336,8 +336,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-19T23:41:18+00:00",
-      "last_success": "2026-10-19T23:41:18+00:00",
+      "last_attempt": "2026-10-20T04:50:26+00:00",
+      "last_success": "2026-10-20T04:50:26+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -345,6 +345,56 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-20T04:50:26+00:00",
+          "id": "220849",
+          "published": "2026-10-20T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 광주글로벌모터스 부당노동행위 구속 수사! 문제해결 촉구 청와대 앞 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220849"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-20T04:50:26+00:00",
+          "id": "220848",
+          "published": "2026-10-20T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 현대차 구사대 폭력 사건 관련 고용노동부 특별근로감독 결과 규탄 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220848"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-20T04:50:26+00:00",
+          "id": "220847",
+          "published": "2026-10-20T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 한화오션 원청교섭 투쟁 승리! 현장 탄압 분쇄! 금속노동자 결의대회",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220847"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-20T04:50:26+00:00",
+          "id": "220846",
+          "published": "2026-10-20T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] “기억으로 여는 안전한 울산” 울산 산재사망노동자 디지털기록관 개관식",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220846"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-20T04:50:26+00:00",
+          "id": "220845",
+          "published": "2026-10-20T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 일지테크, 특정 노조 위원장에 특별임금·법인카드 제공 의혹...부당노동행위 조사 촉구 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220845"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -716,15 +766,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-19T23:41:18+00:00",
-      "last_success": "2026-10-19T23:41:18+00:00",
+      "last_attempt": "2026-10-20T04:50:26+00:00",
+      "last_success": "2026-10-20T04:50:26+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 5,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-19T23:41:18+00:00",
+      "last_attempt": "2026-10-20T04:50:26+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -903,8 +953,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-19T23:41:18+00:00",
-      "last_success": "2026-10-19T23:41:18+00:00",
+      "last_attempt": "2026-10-20T04:50:26+00:00",
+      "last_success": "2026-10-20T04:50:26+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
