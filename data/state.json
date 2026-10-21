@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1792568358.3418,
-      "last_request": 1792568537.2720828,
+      "last_request": 1792590489.1552937,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1792508744.8355656,
-      "last_request": 1792568538.975195,
+      "last_request": 1792590490.8718724,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1792568541.2890086,
-      "last_request": 1792568542.2159967,
+      "last_request": 1792590492.071477,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -25,6 +25,46 @@
     "climatejusticealliance": {
       "fetched_count": 30,
       "items": [
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-21T13:48:09+00:00",
+          "id": "4008542c-4cda-8059-9037-f2036aeb2973",
+          "published": "2026-10-21T16:03:29.871000+09:00",
+          "summary": "",
+          "title": "동맹이야기 이모저모 #23 혹시 ‘3대 메가프로젝트’라고 들어보셨나요?",
+          "url": "https://www.climatejusticealliance.kr/4008542c-4cda-8059-9037-f2036aeb2973"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-21T13:48:09+00:00",
+          "id": "4008542c-4cda-8002-be50-e7c72ff711f3",
+          "published": "2026-10-21T16:02:04.935000+09:00",
+          "summary": "",
+          "title": "동맹이야기 이모저모 #22 919 기후정의행진이 우리에게 남긴 것",
+          "url": "https://www.climatejusticealliance.kr/4008542c-4cda-8002-be50-e7c72ff711f3"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-21T13:48:09+00:00",
+          "id": "4008542c-4cda-8076-a254-cfe4f51ef9b4",
+          "published": "2026-10-21T15:37:18.477000+09:00",
+          "summary": "",
+          "title": "동·단·소 #13 이종란 단비님을 소개합니다.",
+          "url": "https://www.climatejusticealliance.kr/4008542c-4cda-8076-a254-cfe4f51ef9b4"
+        },
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-21T13:48:09+00:00",
+          "id": "4008542c-4cda-80ab-8a4d-f10753de7d48",
+          "published": "2026-10-21T15:32:33.512000+09:00",
+          "summary": "",
+          "title": "가덕도신공항 우선착공 저지·백지화 촉구 부산집중행동",
+          "url": "https://www.climatejusticealliance.kr/4008542c-4cda-80ab-8a4d-f10753de7d48"
+        },
         {
           "category": "성명 및 자료",
           "date_basis": "page_created",
@@ -346,15 +386,35 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-21T07:39:16+00:00",
-      "last_success": "2026-10-21T07:39:16+00:00",
+      "last_attempt": "2026-10-21T13:48:09+00:00",
+      "last_success": "2026-10-21T13:48:09+00:00",
       "message": "정상 수집",
-      "new_count": 1,
+      "new_count": 4,
       "status": "ok"
     },
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-21T13:48:09+00:00",
+          "id": "220854",
+          "published": "2026-10-21T00:00:00+09:00",
+          "summary": "",
+          "title": "[사진자료] 한화오션 원청교섭 투쟁 승리! 현장 탄압 분쇄! 금속노동자 결의대회",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220854"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-21T13:48:09+00:00",
+          "id": "220853",
+          "published": "2026-10-21T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 한화오션·HD현대중공업 고공농성 관련 기자간담회",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220853"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -806,15 +866,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-21T07:39:16+00:00",
-      "last_success": "2026-10-21T07:39:16+00:00",
+      "last_attempt": "2026-10-21T13:48:09+00:00",
+      "last_success": "2026-10-21T13:48:09+00:00",
       "message": "정상 수집",
       "new_count": 2,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-21T07:39:16+00:00",
+      "last_attempt": "2026-10-21T13:48:09+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1003,8 +1063,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-21T07:39:16+00:00",
-      "last_success": "2026-10-21T07:39:16+00:00",
+      "last_attempt": "2026-10-21T13:48:09+00:00",
+      "last_success": "2026-10-21T13:48:09+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
