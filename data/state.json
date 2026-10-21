@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1792471828.4519806,
-      "last_request": 1792546522.6949284,
+      "checked_at": 1792568358.3418,
+      "last_request": 1792568537.2720828,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1792508744.8355656,
-      "last_request": 1792546524.1800776,
+      "last_request": 1792568538.975195,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1792472011.5797408,
-      "last_request": 1792546525.2927058,
+      "checked_at": 1792568541.2890086,
+      "last_request": 1792568542.2159967,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1792471827.2240343,
-      "last_request": 1792471826.232485,
+      "checked_at": 1792568357.271672,
+      "last_request": 1792568356.3276079,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -25,6 +25,16 @@
     "climatejusticealliance": {
       "fetched_count": 30,
       "items": [
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-21T07:39:16+00:00",
+          "id": "4008542c-4cda-80f6-b336-c156c4a24214",
+          "published": "2026-10-21T11:17:21.236000+09:00",
+          "summary": "",
+          "title": "[성명] 261021 기후위기 악화하고 노동자, 농민, 시민의 권리를 짓밟는 초광역특구법 발의 철회하라 - 메가특구법 저지와 3대 메가프로젝트 규탄을 위한 공동행동",
+          "url": "https://www.climatejusticealliance.kr/4008542c-4cda-80f6-b336-c156c4a24214"
+        },
         {
           "category": "알립니다",
           "date_basis": "page_created",
@@ -62,7 +72,7 @@
           "id": "3e98542c-4cda-8061-bfb1-debb2ad92c08",
           "published": "2026-09-28T11:52:02.983000+09:00",
           "summary": "",
-          "title": "[자료] 3대 메가프로젝트, 이대로 괜찮은가? 토론회",
+          "title": "[자료] 270729 3대 메가프로젝트, 이대로 괜찮은가? 토론회",
           "url": "https://www.climatejusticealliance.kr/3e98542c-4cda-8061-bfb1-debb2ad92c08"
         },
         {
@@ -72,7 +82,7 @@
           "id": "3e98542c-4cda-800b-9c55-efca1bb1c486",
           "published": "2026-09-28T11:05:33.867000+09:00",
           "summary": "",
-          "title": "[신문] 개발의 폭주를 멈추고, 모두의 삶을 풍요롭게",
+          "title": "[신문] 290919 개발의 폭주를 멈추고, 모두의 삶을 풍요롭게",
           "url": "https://www.climatejusticealliance.kr/3e98542c-4cda-800b-9c55-efca1bb1c486"
         },
         {
@@ -92,7 +102,7 @@
           "id": "3ca8542c-4cda-80a1-9d42-e6e2dbed986e",
           "published": "2026-08-28T20:13:55.738000+09:00",
           "summary": "",
-          "title": "[소책자] 메가프로젝트 10문 10답, 기후위기와 불평등 악화하는 폭주를 멈춰라",
+          "title": "[소책자] 260822 메가프로젝트 10문 10답, 기후위기와 불평등 악화하는 폭주를 멈춰라",
           "url": "https://www.climatejusticealliance.kr/3ca8542c-4cda-80a1-9d42-e6e2dbed986e"
         },
         {
@@ -102,7 +112,7 @@
           "id": "3c48542c-4cda-807e-960e-d3d05fc1be7d",
           "published": "2026-08-22T15:09:42.675000+09:00",
           "summary": "",
-          "title": "[자료집] 메가프로젝트 정세에 맞선 기후정의 활동가 대회",
+          "title": "[자료집] 260822 메가프로젝트 정세에 맞선 기후정의 활동가 대회",
           "url": "https://www.climatejusticealliance.kr/3c48542c-4cda-807e-960e-d3d05fc1be7d"
         },
         {
@@ -122,7 +132,7 @@
           "id": "3b28542c-4cda-8063-97d2-e316ab5d059e",
           "published": "2026-08-04T13:05:32.044000+09:00",
           "summary": "",
-          "title": "[성명] ‘애초에 짓지 말았어야할 곳’ 김성환 장관은 풍천리 양수발전소 백지화 결단하라",
+          "title": "[성명] 260804 ‘애초에 짓지 말았어야할 곳’ 김성환 장관은 풍천리 양수발전소 백지화 결단하라",
           "url": "https://www.climatejusticealliance.kr/3b28542c-4cda-8063-97d2-e316ab5d059e"
         },
         {
@@ -192,7 +202,7 @@
           "id": "3918542c-4cda-806b-acdd-c3a316594456",
           "published": "2026-07-02T17:45:26.124000+09:00",
           "summary": "",
-          "title": "[성명] 반도체 메가 프로젝트, 폭주를 멈춰라 - 반도체산업의 정의로운 전환을 위한 공동행동",
+          "title": "[성명] 260702 반도체 메가 프로젝트, 폭주를 멈춰라 - 반도체산업의 정의로운 전환을 위한 공동행동",
           "url": "https://www.climatejusticealliance.kr/3918542c-4cda-806b-acdd-c3a316594456"
         },
         {
@@ -202,7 +212,7 @@
           "id": "3918542c-4cda-8023-9626-e87d28669e47",
           "published": "2026-07-02T15:52:44.200000+09:00",
           "summary": "",
-          "title": "[성명] 한정애 의원이 대표 발의한 「물관리기본법 일부개정법률안」 등 3법의 국회 통과를 반대한다 / 반도체산업의 정의로운전환을 위한 공동행동",
+          "title": "[성명] 260702 한정애 의원이 대표 발의한 「물관리기본법 일부개정법률안」 등 3법의 국회 통과를 반대한다 / 반도체산업의 정의로운전환을 위한 공동행동",
           "url": "https://www.climatejusticealliance.kr/3918542c-4cda-8023-9626-e87d28669e47"
         },
         {
@@ -212,7 +222,7 @@
           "id": "38f8542c-4cda-80e5-a151-cbadea9b0584",
           "published": "2026-06-30T10:33:41.013000+09:00",
           "summary": "",
-          "title": "[성명] 3대 메가 프로젝트에 브레이크를 걸어야 한다 - 반도체와 AI 산업을 위한 이재명 정부의 기후부정의 선언",
+          "title": "[성명] 260630 3대 메가 프로젝트에 브레이크를 걸어야 한다 - 반도체와 AI 산업을 위한 이재명 정부의 기후부정의 선언",
           "url": "https://www.climatejusticealliance.kr/38f8542c-4cda-80e5-a151-cbadea9b0584"
         },
         {
@@ -232,7 +242,7 @@
           "id": "3818542c-4cda-80d7-adc9-cf7baf8c3dc7",
           "published": "2026-06-16T18:17:37.220000+09:00",
           "summary": "",
-          "title": "[자료] 김충현 중대재해 1년, 현장은 바뀌었나? 토론회 자료집",
+          "title": "[자료] 260528 김충현 중대재해 1년, 현장은 바뀌었나? 토론회 자료집",
           "url": "https://www.climatejusticealliance.kr/3818542c-4cda-80d7-adc9-cf7baf8c3dc7"
         },
         {
@@ -336,15 +346,35 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-21T01:35:22+00:00",
-      "last_success": "2026-10-21T01:35:22+00:00",
+      "last_attempt": "2026-10-21T07:39:16+00:00",
+      "last_success": "2026-10-21T07:39:16+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     },
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-21T07:39:16+00:00",
+          "id": "220852",
+          "published": "2026-10-21T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 반도체 소부장 및 하청 노동 실태 국회 증언대회",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220852"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-21T07:39:16+00:00",
+          "id": "220851",
+          "published": "2026-10-21T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 5년간 중대재해 사망 노동자 7명 현대제철 규탄 금속노조 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220851"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -776,15 +806,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-21T01:35:22+00:00",
-      "last_success": "2026-10-21T01:35:22+00:00",
+      "last_attempt": "2026-10-21T07:39:16+00:00",
+      "last_success": "2026-10-21T07:39:16+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 2,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-21T01:35:22+00:00",
+      "last_attempt": "2026-10-21T07:39:16+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -973,10 +1003,10 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-21T01:35:22+00:00",
-      "last_success": "2026-10-21T01:35:22+00:00",
+      "last_attempt": "2026-10-21T07:39:16+00:00",
+      "last_success": "2026-10-21T07:39:16+00:00",
       "message": "정상 수집",
-      "new_count": 1,
+      "new_count": 0,
       "status": "ok"
     }
   },
