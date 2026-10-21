@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1792568358.3418,
-      "last_request": 1792590489.1552937,
+      "last_request": 1792607947.2007701,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
-      "checked_at": 1792508744.8355656,
-      "last_request": 1792590490.8718724,
+      "checked_at": 1792607949.7518408,
+      "last_request": 1792607950.9939747,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1792568541.2890086,
-      "last_request": 1792590492.071477,
+      "last_request": 1792607952.0043905,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -386,10 +386,10 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-21T13:48:09+00:00",
-      "last_success": "2026-10-21T13:48:09+00:00",
+      "last_attempt": "2026-10-21T18:39:07+00:00",
+      "last_success": "2026-10-21T18:39:07+00:00",
       "message": "정상 수집",
-      "new_count": 4,
+      "new_count": 0,
       "status": "ok"
     },
     "kmwu": {
@@ -866,15 +866,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-21T13:48:09+00:00",
-      "last_success": "2026-10-21T13:48:09+00:00",
+      "last_attempt": "2026-10-21T18:39:07+00:00",
+      "last_success": "2026-10-21T18:39:07+00:00",
       "message": "정상 수집",
-      "new_count": 2,
+      "new_count": 0,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-21T13:48:09+00:00",
+      "last_attempt": "2026-10-21T18:39:07+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1063,8 +1063,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-21T13:48:09+00:00",
-      "last_success": "2026-10-21T13:48:09+00:00",
+      "last_attempt": "2026-10-21T18:39:07+00:00",
+      "last_success": "2026-10-21T18:39:07+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
