@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1792568358.3418,
-      "last_request": 1792654498.0817902,
+      "checked_at": 1792676880.1682363,
+      "last_request": 1792677059.369809,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1792607949.7518408,
-      "last_request": 1792654499.282143,
+      "last_request": 1792677060.582471,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1792568541.2890086,
-      "last_request": 1792654500.239019,
+      "checked_at": 1792677062.207816,
+      "last_request": 1792677063.555566,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1792568357.271672,
-      "last_request": 1792568356.3276079,
+      "checked_at": 1792676879.3693929,
+      "last_request": 1792676878.5927196,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -386,8 +386,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-22T07:34:58+00:00",
-      "last_success": "2026-10-22T07:34:58+00:00",
+      "last_attempt": "2026-10-22T13:47:58+00:00",
+      "last_success": "2026-10-22T13:47:58+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -395,6 +395,26 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-22T13:47:58+00:00",
+          "id": "220859",
+          "published": "2026-10-22T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한화오션 제3차 원청교섭 \"사측은 교섭 의제 국한하지 말라\"",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220859"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-22T13:47:58+00:00",
+          "id": "220858",
+          "published": "2026-10-22T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] \"다단계 하도급 때문\" HD현대일렉트릭 하청 노동자 추락 중대재해 규탄 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220858"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -896,15 +916,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-22T07:34:58+00:00",
-      "last_success": "2026-10-22T07:34:58+00:00",
+      "last_attempt": "2026-10-22T13:47:58+00:00",
+      "last_success": "2026-10-22T13:47:58+00:00",
       "message": "정상 수집",
-      "new_count": 3,
+      "new_count": 2,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-22T07:34:58+00:00",
+      "last_attempt": "2026-10-22T13:47:58+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1103,8 +1123,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-22T07:34:58+00:00",
-      "last_success": "2026-10-22T07:34:58+00:00",
+      "last_attempt": "2026-10-22T13:47:58+00:00",
+      "last_success": "2026-10-22T13:47:58+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
