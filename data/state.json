@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1792568358.3418,
-      "last_request": 1792632717.2002652,
+      "last_request": 1792654498.0817902,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1792607949.7518408,
-      "last_request": 1792632718.4498634,
+      "last_request": 1792654499.282143,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1792568541.2890086,
-      "last_request": 1792632719.4182243,
+      "last_request": 1792654500.239019,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -52,7 +52,7 @@
           "id": "4008542c-4cda-8076-a254-cfe4f51ef9b4",
           "published": "2026-10-21T15:37:18.477000+09:00",
           "summary": "",
-          "title": "동·단·소 #13 이종란 단비님을 소개합니다.",
+          "title": "동·단·소 #13 이종란 단비님을 소개합니다",
           "url": "https://www.climatejusticealliance.kr/4008542c-4cda-8076-a254-cfe4f51ef9b4"
         },
         {
@@ -386,8 +386,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-22T01:31:57+00:00",
-      "last_success": "2026-10-22T01:31:57+00:00",
+      "last_attempt": "2026-10-22T07:34:58+00:00",
+      "last_success": "2026-10-22T07:34:58+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -395,6 +395,36 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-22T07:34:58+00:00",
+          "id": "220857",
+          "published": "2026-10-22T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 한국지엠 노사·인평자동차고교, 미래 기술인재 육성과 지역 상생을 위한 산학협력 협약 체결",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220857"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-22T07:34:58+00:00",
+          "id": "220856",
+          "published": "2026-10-22T00:00:00+09:00",
+          "summary": "",
+          "title": "[자료집] 반도체 소부장 및 하청 노동 실태 국회 증언대회",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220856"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-22T07:34:58+00:00",
+          "id": "220855",
+          "published": "2026-10-22T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 광주특별시 노사민정협의회의 GGM 중재 권고안에 대한 금속노조 입장 발표 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220855"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -866,15 +896,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-22T01:31:57+00:00",
-      "last_success": "2026-10-22T01:31:57+00:00",
+      "last_attempt": "2026-10-22T07:34:58+00:00",
+      "last_success": "2026-10-22T07:34:58+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 3,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-22T01:31:57+00:00",
+      "last_attempt": "2026-10-22T07:34:58+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1073,10 +1103,10 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-22T01:31:57+00:00",
-      "last_success": "2026-10-22T01:31:57+00:00",
+      "last_attempt": "2026-10-22T07:34:58+00:00",
+      "last_success": "2026-10-22T07:34:58+00:00",
       "message": "정상 수집",
-      "new_count": 1,
+      "new_count": 0,
       "status": "ok"
     }
   },
