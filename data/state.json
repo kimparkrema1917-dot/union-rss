@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1792676880.1682363,
-      "last_request": 1792719057.536558,
+      "last_request": 1792740697.2432506,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1792707632.3771408,
-      "last_request": 1792719059.038156,
+      "last_request": 1792740698.9524305,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1792677062.207816,
-      "last_request": 1792719060.1623142,
+      "last_request": 1792740700.1982722,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -386,8 +386,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-23T01:30:57+00:00",
-      "last_success": "2026-10-23T01:30:57+00:00",
+      "last_attempt": "2026-10-23T07:31:37+00:00",
+      "last_success": "2026-10-23T07:31:37+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -395,6 +395,46 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-23T07:31:37+00:00",
+          "id": "220863",
+          "published": "2026-10-23T00:00:00+09:00",
+          "summary": "",
+          "title": "[논평] 청년 목숨 앗은 동희오토 직장내괴롭힘, 정부는 철저히 수사하라",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220863"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-23T07:31:37+00:00",
+          "id": "220862",
+          "published": "2026-10-23T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한국지엠 국정감사...\"산업부 MOU 관리감독 어디갔나\"",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220862"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-23T07:31:37+00:00",
+          "id": "220861",
+          "published": "2026-10-23T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] \"GGM, 권고안 수용하고 교섭 나와야\" 사내 단식농성 확대",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220861"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-23T07:31:37+00:00",
+          "id": "220860",
+          "published": "2026-10-23T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] \"다단계 하도급 때문\" HD현대일렉트릭 하청 노동자 추락 중대재해 규탄 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220860"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -916,15 +956,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-23T01:30:57+00:00",
-      "last_success": "2026-10-23T01:30:57+00:00",
+      "last_attempt": "2026-10-23T07:31:37+00:00",
+      "last_success": "2026-10-23T07:31:37+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 4,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-23T01:30:57+00:00",
+      "last_attempt": "2026-10-23T07:31:37+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1123,8 +1163,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-23T01:30:57+00:00",
-      "last_success": "2026-10-23T01:30:57+00:00",
+      "last_attempt": "2026-10-23T07:31:37+00:00",
+      "last_success": "2026-10-23T07:31:37+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
