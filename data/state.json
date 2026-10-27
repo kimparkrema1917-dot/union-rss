@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1793058776.3844137,
-      "last_request": 1793058955.5986753,
+      "last_request": 1793077432.7766283,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1792995182.8282962,
-      "last_request": 1793058956.8162322,
+      "last_request": 1793077434.2767906,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1793058958.4208975,
-      "last_request": 1793058959.8013918,
+      "last_request": 1793077435.4306238,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -396,8 +396,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-26T23:52:54+00:00",
-      "last_success": "2026-10-26T23:52:54+00:00",
+      "last_attempt": "2026-10-27T05:03:52+00:00",
+      "last_success": "2026-10-27T05:03:52+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -405,6 +405,36 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-27T05:03:52+00:00",
+          "id": "220870",
+          "published": "2026-10-27T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 현대차는 즉각 원청교섭에 응하라 -현대차 원청교섭 중노위 결정문에 대한 입장",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220870"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-27T05:03:52+00:00",
+          "id": "220869",
+          "published": "2026-10-27T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한국지엠지부·한국지엠·인평자동차고교 산학협력 업무협약식",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220869"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-27T05:03:52+00:00",
+          "id": "220868",
+          "published": "2026-10-27T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] '납 노출' DN오토모티브 작업 환경 개선 위한 위원회 좌초 위기 규탄 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220868"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1006,15 +1036,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-26T23:52:54+00:00",
-      "last_success": "2026-10-26T23:52:54+00:00",
+      "last_attempt": "2026-10-27T05:03:52+00:00",
+      "last_success": "2026-10-27T05:03:52+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 3,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-26T23:52:54+00:00",
+      "last_attempt": "2026-10-27T05:03:52+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1213,8 +1243,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-26T23:52:54+00:00",
-      "last_success": "2026-10-26T23:52:54+00:00",
+      "last_attempt": "2026-10-27T05:03:52+00:00",
+      "last_success": "2026-10-27T05:03:52+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
