@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1793150468.8186324,
-      "last_request": 1793150648.0215023,
+      "last_request": 1793176244.2083173,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1793097222.8317041,
-      "last_request": 1793150649.2277322,
+      "last_request": 1793176245.9498882,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1793150650.7252502,
-      "last_request": 1793150652.2032983,
+      "last_request": 1793176247.1923084,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -396,8 +396,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-28T01:21:07+00:00",
-      "last_success": "2026-10-28T01:21:07+00:00",
+      "last_attempt": "2026-10-28T08:30:44+00:00",
+      "last_success": "2026-10-28T08:30:44+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -405,6 +405,46 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-28T08:30:44+00:00",
+          "id": "220876",
+          "published": "2026-10-28T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 불법파견 부당축소·지연 판결 중단 촉구 현장 대표자 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220876"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-28T08:30:44+00:00",
+          "id": "220875",
+          "published": "2026-10-28T00:00:00+09:00",
+          "summary": "",
+          "title": "[자료집] 멈춰 선 원청교섭, 어떻게 해결할 것인가 –원청교섭 활성화 및 제도개선을 위한 국회 토론회",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220875"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-28T08:30:44+00:00",
+          "id": "220874",
+          "published": "2026-10-28T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 한국옵티칼 부당해고, 대법원 원심 파기 및 심리 촉구 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220874"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-28T08:30:44+00:00",
+          "id": "220873",
+          "published": "2026-10-28T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] GGM 단식농성 17일째 응급 후송...\"주주단은 중재권고안 수용해야\"",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220873"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1056,15 +1096,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-28T01:21:07+00:00",
-      "last_success": "2026-10-28T01:21:07+00:00",
+      "last_attempt": "2026-10-28T08:30:44+00:00",
+      "last_success": "2026-10-28T08:30:44+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 4,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-28T01:21:07+00:00",
+      "last_attempt": "2026-10-28T08:30:44+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1263,8 +1303,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-28T01:21:07+00:00",
-      "last_success": "2026-10-28T01:21:07+00:00",
+      "last_attempt": "2026-10-28T08:30:44+00:00",
+      "last_success": "2026-10-28T08:30:44+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
