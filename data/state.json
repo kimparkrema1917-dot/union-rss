@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1793150468.8186324,
-      "last_request": 1793235357.4504864,
+      "checked_at": 1793257490.080965,
+      "last_request": 1793257669.2548523,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1793203294.6196764,
-      "last_request": 1793235358.8337755,
+      "last_request": 1793257670.5188963,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1793150650.7252502,
-      "last_request": 1793235359.9178739,
+      "checked_at": 1793257672.75507,
+      "last_request": 1793257673.5993183,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1793150468.021151,
-      "last_request": 1793150467.2379792,
+      "checked_at": 1793257489.2544067,
+      "last_request": 1793257488.439208,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -25,6 +25,16 @@
     "climatejusticealliance": {
       "fetched_count": 30,
       "items": [
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-10-29T07:04:48+00:00",
+          "id": "4088542c-4cda-80f7-97be-f63592c0d5b8",
+          "published": "2026-10-29T13:17:27.553000+09:00",
+          "summary": "",
+          "title": "공공성 확대, 정의로운 전환을 위한 발전공기업 통합 방안 모색 토론회",
+          "url": "https://www.climatejusticealliance.kr/4088542c-4cda-80f7-97be-f63592c0d5b8"
+        },
         {
           "category": "활동 소식",
           "date_basis": "page_created",
@@ -426,15 +436,35 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-10-29T00:55:57+00:00",
-      "last_success": "2026-10-29T00:55:57+00:00",
+      "last_attempt": "2026-10-29T07:04:48+00:00",
+      "last_success": "2026-10-29T07:04:48+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     },
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-29T07:04:48+00:00",
+          "id": "220878",
+          "published": "2026-10-29T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 발레오 중국산 부품 무단 사용 의혹...지회 정의선 회장 자택 앞 1인 시위",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220878"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-10-29T07:04:48+00:00",
+          "id": "220877",
+          "published": "2026-10-29T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 광주글로벌모터스 노사 단체협약 잠정합의, 18일간의 단식농성 해제 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220877"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1126,15 +1156,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-10-29T00:55:57+00:00",
-      "last_success": "2026-10-29T00:55:57+00:00",
+      "last_attempt": "2026-10-29T07:04:48+00:00",
+      "last_success": "2026-10-29T07:04:48+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 2,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-10-29T00:55:57+00:00",
+      "last_attempt": "2026-10-29T07:04:48+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1333,8 +1363,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-10-29T00:55:57+00:00",
-      "last_success": "2026-10-29T00:55:57+00:00",
+      "last_attempt": "2026-10-29T07:04:48+00:00",
+      "last_success": "2026-10-29T07:04:48+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
