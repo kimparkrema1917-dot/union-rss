@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1793634620.2078424,
-      "last_request": 1793662167.5408509,
+      "last_request": 1793688355.1948745,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
-      "checked_at": 1793599224.0241103,
-      "last_request": 1793662169.2120898,
+      "checked_at": 1793688357.6121929,
+      "last_request": 1793688358.6855977,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1793634803.6149812,
-      "last_request": 1793662170.4127789,
+      "last_request": 1793688359.8422928,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -456,8 +456,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-02T23:29:27+00:00",
-      "last_success": "2026-11-02T23:29:27+00:00",
+      "last_attempt": "2026-11-03T06:45:55+00:00",
+      "last_success": "2026-11-03T06:45:55+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -465,6 +465,36 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-03T06:45:55+00:00",
+          "id": "220888",
+          "published": "2026-11-03T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 현대위아 특수사업부 노동자 배제한 졸속 매각 규탄, 즉각 철회 촉구 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220888"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-03T06:45:55+00:00",
+          "id": "220887",
+          "published": "2026-11-03T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 금호타이어 광주공장 끼임 중대재해 규탄 금속노조 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220887"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-03T06:45:55+00:00",
+          "id": "220886",
+          "published": "2026-11-03T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 광주글로벌모터스 단체협약 잠정합의안 가결, 5일 조인식",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220886"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1246,15 +1276,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-02T23:29:27+00:00",
-      "last_success": "2026-11-02T23:29:27+00:00",
+      "last_attempt": "2026-11-03T06:45:55+00:00",
+      "last_success": "2026-11-03T06:45:55+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 3,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-02T23:29:27+00:00",
+      "last_attempt": "2026-11-03T06:45:55+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1453,8 +1483,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-02T23:29:27+00:00",
-      "last_success": "2026-11-02T23:29:27+00:00",
+      "last_attempt": "2026-11-03T06:45:55+00:00",
+      "last_success": "2026-11-03T06:45:55+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
