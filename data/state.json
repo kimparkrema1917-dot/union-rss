@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1793739519.551622,
-      "last_request": 1793783452.66841,
+      "last_request": 1793812454.5783033,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1793783455.1804156,
-      "last_request": 1793783456.228826,
+      "last_request": 1793812455.8632672,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1793739702.300537,
-      "last_request": 1793783457.369493,
+      "last_request": 1793812457.4706883,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -466,10 +466,10 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-04T09:10:52+00:00",
-      "last_success": "2026-11-04T09:10:52+00:00",
+      "last_attempt": "2026-11-04T17:14:14+00:00",
+      "last_success": "2026-11-04T17:14:14+00:00",
       "message": "정상 수집",
-      "new_count": 1,
+      "new_count": 0,
       "status": "ok"
     },
     "kmwu": {
@@ -1296,15 +1296,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-04T09:10:52+00:00",
-      "last_success": "2026-11-04T09:10:52+00:00",
+      "last_attempt": "2026-11-04T17:14:14+00:00",
+      "last_success": "2026-11-04T17:14:14+00:00",
       "message": "정상 수집",
-      "new_count": 1,
+      "new_count": 0,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-04T09:10:52+00:00",
+      "last_attempt": "2026-11-04T17:14:14+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1503,8 +1503,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-04T09:10:52+00:00",
-      "last_success": "2026-11-04T09:10:52+00:00",
+      "last_attempt": "2026-11-04T17:14:14+00:00",
+      "last_success": "2026-11-04T17:14:14+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
