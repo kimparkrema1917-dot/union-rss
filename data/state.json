@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1793739519.551622,
-      "last_request": 1793755227.9478223,
+      "last_request": 1793783452.66841,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
-      "checked_at": 1793688357.6121929,
-      "last_request": 1793755230.3161044,
+      "checked_at": 1793783455.1804156,
+      "last_request": 1793783456.228826,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1793739702.300537,
-      "last_request": 1793755231.3572767,
+      "last_request": 1793783457.369493,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -25,6 +25,16 @@
     "climatejusticealliance": {
       "fetched_count": 30,
       "items": [
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-11-04T09:10:52+00:00",
+          "id": "40e8542c-4cda-80cd-b119-da7109bef5e3",
+          "published": "2026-11-04T14:11:38.532000+09:00",
+          "summary": "",
+          "title": "<11.21초광역특구법저지행진> 우리 권리와 삶터를 파괴하는 법은 필요없다!",
+          "url": "https://www.climatejusticealliance.kr/40e8542c-4cda-80cd-b119-da7109bef5e3"
+        },
         {
           "category": "알립니다",
           "date_basis": "page_created",
@@ -456,15 +466,25 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-04T01:20:27+00:00",
-      "last_success": "2026-11-04T01:20:27+00:00",
+      "last_attempt": "2026-11-04T09:10:52+00:00",
+      "last_success": "2026-11-04T09:10:52+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     },
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-04T09:10:52+00:00",
+          "id": "220889",
+          "published": "2026-11-04T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 중앙노동위원회 판정 거부 규탄, 현대차 원청교섭 촉구 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220889"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1276,15 +1296,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-04T01:20:27+00:00",
-      "last_success": "2026-11-04T01:20:27+00:00",
+      "last_attempt": "2026-11-04T09:10:52+00:00",
+      "last_success": "2026-11-04T09:10:52+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-04T01:20:27+00:00",
+      "last_attempt": "2026-11-04T09:10:52+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1483,8 +1503,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-04T01:20:27+00:00",
-      "last_success": "2026-11-04T01:20:27+00:00",
+      "last_attempt": "2026-11-04T09:10:52+00:00",
+      "last_success": "2026-11-04T09:10:52+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
