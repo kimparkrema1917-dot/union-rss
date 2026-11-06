@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1793831898.2178504,
-      "last_request": 1793911195.610487,
+      "checked_at": 1793928731.7615771,
+      "last_request": 1793928910.9451735,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1793881189.2633562,
-      "last_request": 1793911198.0984294,
+      "last_request": 1793928912.1839669,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1793832080.8181877,
-      "last_request": 1793911199.2942712,
+      "checked_at": 1793928914.4469004,
+      "last_request": 1793928915.2019775,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1793831896.762081,
-      "last_request": 1793831895.799211,
+      "checked_at": 1793928730.9448192,
+      "last_request": 1793928730.2061183,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -466,8 +466,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-05T20:39:55+00:00",
-      "last_success": "2026-11-05T20:39:55+00:00",
+      "last_attempt": "2026-11-06T01:32:10+00:00",
+      "last_success": "2026-11-06T01:32:10+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -475,6 +475,26 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-06T01:32:10+00:00",
+          "id": "220892",
+          "published": "2026-11-06T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 반복되는 중대재해 HD현대삼호중공업 규탄 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220892"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-06T01:32:10+00:00",
+          "id": "220891",
+          "published": "2026-11-06T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한화오션 5차 원청교섭...사측, 교섭 의제 한정 태도 고수",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220891"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1306,15 +1326,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-05T20:39:55+00:00",
-      "last_success": "2026-11-05T20:39:55+00:00",
+      "last_attempt": "2026-11-06T01:32:10+00:00",
+      "last_success": "2026-11-06T01:32:10+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 2,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-05T20:39:55+00:00",
+      "last_attempt": "2026-11-06T01:32:10+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1513,8 +1533,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-05T20:39:55+00:00",
-      "last_success": "2026-11-05T20:39:55+00:00",
+      "last_attempt": "2026-11-06T01:32:10+00:00",
+      "last_success": "2026-11-06T01:32:10+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
