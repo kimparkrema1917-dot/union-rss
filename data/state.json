@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1794122349.404063,
-      "last_request": 1794181333.4173667,
+      "last_request": 1794205561.4441826,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1794181335.7188942,
-      "last_request": 1794181336.83439,
+      "last_request": 1794205562.9417484,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1794122532.2983458,
-      "last_request": 1794181337.878563,
+      "last_request": 1794205564.0927124,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -486,8 +486,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-08T23:42:13+00:00",
-      "last_success": "2026-11-08T23:42:13+00:00",
+      "last_attempt": "2026-11-09T06:26:01+00:00",
+      "last_success": "2026-11-09T06:26:01+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -495,6 +495,16 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-09T06:26:01+00:00",
+          "id": "220895",
+          "published": "2026-11-09T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한국지엠 비정규직에 '쪼개기 계약' 계약종료 통보...\"원청이 고용 책임져야\"",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220895"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1366,15 +1376,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-08T23:42:13+00:00",
-      "last_success": "2026-11-08T23:42:13+00:00",
+      "last_attempt": "2026-11-09T06:26:01+00:00",
+      "last_success": "2026-11-09T06:26:01+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-08T23:42:13+00:00",
+      "last_attempt": "2026-11-09T06:26:01+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1573,8 +1583,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-08T23:42:13+00:00",
-      "last_success": "2026-11-08T23:42:13+00:00",
+      "last_attempt": "2026-11-09T06:26:01+00:00",
+      "last_success": "2026-11-09T06:26:01+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
