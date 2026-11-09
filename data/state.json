@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1794122349.404063,
-      "last_request": 1794205561.4441826,
+      "checked_at": 1794245320.5748923,
+      "last_request": 1794245499.6742554,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1794181335.7188942,
-      "last_request": 1794205562.9417484,
+      "last_request": 1794245501.0466204,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1794122532.2983458,
-      "last_request": 1794205564.0927124,
+      "checked_at": 1794245503.260513,
+      "last_request": 1794245504.168657,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1794122348.3854082,
-      "last_request": 1794122347.3992326,
+      "checked_at": 1794245319.673816,
+      "last_request": 1794245318.8423674,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -486,8 +486,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-09T06:26:01+00:00",
-      "last_success": "2026-11-09T06:26:01+00:00",
+      "last_attempt": "2026-11-09T17:28:38+00:00",
+      "last_success": "2026-11-09T17:28:38+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -495,6 +495,16 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-09T17:28:38+00:00",
+          "id": "220896",
+          "published": "2026-11-09T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 원청교섭 무시, 노조법 부정하는 현대차 부당노동행위 수사하고 엄벌하라",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220896"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1376,15 +1386,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-09T06:26:01+00:00",
-      "last_success": "2026-11-09T06:26:01+00:00",
+      "last_attempt": "2026-11-09T17:28:38+00:00",
+      "last_success": "2026-11-09T17:28:38+00:00",
       "message": "정상 수집",
       "new_count": 1,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-09T06:26:01+00:00",
+      "last_attempt": "2026-11-09T17:28:38+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1392,6 +1402,16 @@
     "leftall": {
       "fetched_count": 15,
       "items": [
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-09T17:28:38+00:00",
+          "id": "94",
+          "published": "2026-11-09T00:00:00+09:00",
+          "summary": "",
+          "title": "[노동자의 눈으로 세상보기] 민주노총 직선5기 선거 의의와 과제",
+          "url": "https://leftall.com/newsletter/94"
+        },
         {
           "category": "소식지",
           "date_basis": "published_day",
@@ -1583,10 +1603,10 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-09T06:26:01+00:00",
-      "last_success": "2026-11-09T06:26:01+00:00",
+      "last_attempt": "2026-11-09T17:28:38+00:00",
+      "last_success": "2026-11-09T17:28:38+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     }
   },
