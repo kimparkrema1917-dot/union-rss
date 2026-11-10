@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1794245320.5748923,
-      "last_request": 1794274203.7632222,
+      "last_request": 1794304162.3436606,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1794274206.2103653,
-      "last_request": 1794274207.3081093,
+      "last_request": 1794304163.7520752,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1794245503.260513,
-      "last_request": 1794274208.444701,
+      "last_request": 1794304164.845922,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -25,6 +25,26 @@
     "climatejusticealliance": {
       "fetched_count": 30,
       "items": [
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-11-10T09:49:22+00:00",
+          "id": "4148542c-4cda-80a8-9679-d32a02b11c06",
+          "published": "2026-11-10T13:12:52.039000+09:00",
+          "summary": "",
+          "title": "[긴급수다회]폭주하는 초광역특구법, 머리를 맞대보자!",
+          "url": "https://www.climatejusticealliance.kr/4148542c-4cda-80a8-9679-d32a02b11c06"
+        },
+        {
+          "category": "성명 및 자료",
+          "date_basis": "page_created",
+          "first_seen": "2026-11-10T09:49:22+00:00",
+          "id": "4148542c-4cda-8076-8de2-d34b0b2158c5",
+          "published": "2026-11-10T09:49:11.189000+09:00",
+          "summary": "",
+          "title": "[성명] 261110 새만금신공항 기본계획 취소소송 변론재개와 항소 기각을 촉구한다 - 법원은 국회와 정부의 개발 폭주를 견제하라",
+          "url": "https://www.climatejusticealliance.kr/4148542c-4cda-8076-8de2-d34b0b2158c5"
+        },
         {
           "category": "알립니다",
           "date_basis": "page_created",
@@ -486,15 +506,55 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-10T01:30:03+00:00",
-      "last_success": "2026-11-10T01:30:03+00:00",
+      "last_attempt": "2026-11-10T09:49:22+00:00",
+      "last_success": "2026-11-10T09:49:22+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 2,
       "status": "ok"
     },
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-10T09:49:22+00:00",
+          "id": "220902",
+          "published": "2026-11-10T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 2022년 한화오션 하청 51일 파업 항소심 판결에 따른 입장",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220902"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-10T09:49:22+00:00",
+          "id": "220901",
+          "published": "2026-11-10T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] ‘쟁의 금지 가처분’ HL만도를 규탄한다",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220901"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-10T09:49:22+00:00",
+          "id": "220900",
+          "published": "2026-11-10T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] \"HD현대삼호 중대재해 작업중지 왜 안 하나\" 고용노동부 규탄 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220900"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-10T09:49:22+00:00",
+          "id": "220899",
+          "published": "2026-11-10T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 현대차, 발레오 미승인 부품에 제재 결정...지회 \"진상규명, 소비자 보호해야\" 시위 지속",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220899"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -512,7 +572,7 @@
           "id": "220897",
           "published": "2026-11-10T00:00:00+09:00",
           "summary": "",
-          "title": "[취재요청] \"삼호중공업 중대재해 작업중지 왜 안 하나\" 고용노동부 규탄 기자회견",
+          "title": "[취재요청] \"HD현대삼호 중대재해 작업중지 왜 안 하나\" 고용노동부 규탄 기자회견",
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220897"
         },
         {
@@ -1406,15 +1466,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-10T01:30:03+00:00",
-      "last_success": "2026-11-10T01:30:03+00:00",
+      "last_attempt": "2026-11-10T09:49:22+00:00",
+      "last_success": "2026-11-10T09:49:22+00:00",
       "message": "정상 수집",
-      "new_count": 2,
+      "new_count": 4,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-10T01:30:03+00:00",
+      "last_attempt": "2026-11-10T09:49:22+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1623,8 +1683,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-10T01:30:03+00:00",
-      "last_success": "2026-11-10T01:30:03+00:00",
+      "last_attempt": "2026-11-10T09:49:22+00:00",
+      "last_success": "2026-11-10T09:49:22+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
