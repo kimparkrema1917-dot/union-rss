@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1794626106.0361187,
-      "last_request": 1794707697.813687,
+      "checked_at": 1794734686.1842084,
+      "last_request": 1794734865.2687345,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1794676039.3571572,
-      "last_request": 1794707699.2883196,
+      "last_request": 1794734866.6274974,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1794626288.345545,
-      "last_request": 1794707700.3891377,
+      "checked_at": 1794734868.7047992,
+      "last_request": 1794734869.710697,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1794626105.087496,
-      "last_request": 1794626104.2356226,
+      "checked_at": 1794734685.268359,
+      "last_request": 1794734684.3778853,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -506,8 +506,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-15T01:54:57+00:00",
-      "last_success": "2026-11-15T01:54:57+00:00",
+      "last_attempt": "2026-11-15T09:24:44+00:00",
+      "last_success": "2026-11-15T09:24:44+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -1516,15 +1516,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-15T01:54:57+00:00",
-      "last_success": "2026-11-15T01:54:57+00:00",
+      "last_attempt": "2026-11-15T09:24:44+00:00",
+      "last_success": "2026-11-15T09:24:44+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-15T01:54:57+00:00",
+      "last_attempt": "2026-11-15T09:24:44+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1733,8 +1733,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-15T01:54:57+00:00",
-      "last_success": "2026-11-15T01:54:57+00:00",
+      "last_attempt": "2026-11-15T09:24:44+00:00",
+      "last_success": "2026-11-15T09:24:44+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
