@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1794734686.1842084,
-      "last_request": 1794794765.7656736,
+      "checked_at": 1794822130.093687,
+      "last_request": 1794822308.9218345,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1794794768.3681273,
-      "last_request": 1794794769.422435,
+      "last_request": 1794822310.3385699,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1794734868.7047992,
-      "last_request": 1794794770.666985,
+      "checked_at": 1794822312.4560947,
+      "last_request": 1794822313.5106602,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1794734685.268359,
-      "last_request": 1794734684.3778853,
+      "checked_at": 1794822128.921436,
+      "last_request": 1794822127.882785,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -506,8 +506,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-16T02:06:05+00:00",
-      "last_success": "2026-11-16T02:06:05+00:00",
+      "last_attempt": "2026-11-16T09:42:07+00:00",
+      "last_success": "2026-11-16T09:42:07+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -515,6 +515,36 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-16T09:42:07+00:00",
+          "id": "220913",
+          "published": "2026-11-16T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 가전 스팀 점검 강요·합법 쟁의 무력화 시도하는 LG하이케어솔루션 규탄 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220913"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-16T09:42:07+00:00",
+          "id": "220912",
+          "published": "2026-11-16T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 동희오토 민주노조 인정! 노동조건 향상! 기아차 원청 결단 촉구 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220912"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-16T09:42:07+00:00",
+          "id": "220911",
+          "published": "2026-11-16T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한화오션 하청노동자 단식투쟁 돌입, 온전한 원청교섭 촉구 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220911"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1546,15 +1576,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-16T02:06:05+00:00",
-      "last_success": "2026-11-16T02:06:05+00:00",
+      "last_attempt": "2026-11-16T09:42:07+00:00",
+      "last_success": "2026-11-16T09:42:07+00:00",
       "message": "정상 수집",
-      "new_count": 2,
+      "new_count": 3,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-16T02:06:05+00:00",
+      "last_attempt": "2026-11-16T09:42:07+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1763,8 +1793,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-16T02:06:05+00:00",
-      "last_success": "2026-11-16T02:06:05+00:00",
+      "last_attempt": "2026-11-16T09:42:07+00:00",
+      "last_success": "2026-11-16T09:42:07+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
