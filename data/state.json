@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1794822130.093687,
-      "last_request": 1794887590.7335243,
+      "checked_at": 1794921906.4355674,
+      "last_request": 1794922085.6387372,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
-      "checked_at": 1794794768.3681273,
-      "last_request": 1794887591.903734,
+      "checked_at": 1794922088.2044098,
+      "last_request": 1794922089.4205604,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1794822312.4560947,
-      "last_request": 1794887621.9886916,
+      "checked_at": 1794922091.6313818,
+      "last_request": 1794922092.4234643,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1794822128.921436,
-      "last_request": 1794822127.882785,
+      "checked_at": 1794921905.6383877,
+      "last_request": 1794921904.8745205,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -25,6 +25,16 @@
     "climatejusticealliance": {
       "fetched_count": 30,
       "items": [
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-11-17T13:25:04+00:00",
+          "id": "41b8542c-4cda-8035-8bbf-c1cda8a56b7a",
+          "published": "2026-11-17T17:47:20.860000+09:00",
+          "summary": "",
+          "title": "새만금신공항기본계획 취소소송 변론재개, 항소기각 요구하는 집중집회 함께 했습니다!",
+          "url": "https://www.climatejusticealliance.kr/41b8542c-4cda-8035-8bbf-c1cda8a56b7a"
+        },
         {
           "category": "알립니다",
           "date_basis": "page_created",
@@ -506,15 +516,75 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-17T03:53:10+00:00",
-      "last_success": "2026-11-17T03:53:10+00:00",
+      "last_attempt": "2026-11-17T13:25:04+00:00",
+      "last_success": "2026-11-17T13:25:04+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     },
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-17T13:25:04+00:00",
+          "id": "220920",
+          "published": "2026-11-17T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 한화그룹 부당노동행위 중단, 원상회복 및 재발방지 촉구 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220920"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-17T13:25:04+00:00",
+          "id": "220919",
+          "published": "2026-11-17T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명]원청교섭 거부 현대차, 정부는 언제까지 방치할 건가",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220919"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-17T13:25:04+00:00",
+          "id": "220918",
+          "published": "2026-11-17T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 현대차그룹사 그룹사 3대 핵심 요구안 공표 및 65세 정년연장 입법 촉구 기자회견 발언문",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220918"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-17T13:25:04+00:00",
+          "id": "220917",
+          "published": "2026-11-17T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] HD현대삼호 청년 하청 노동자 중대재해 노동부 직무유기 고소고발 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220917"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-17T13:25:04+00:00",
+          "id": "220916",
+          "published": "2026-11-17T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 노동개악 저지! 금속노조 8대 요구 공표 및 입법 촉구 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220916"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-17T13:25:04+00:00",
+          "id": "220915",
+          "published": "2026-11-17T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] HD현대삼호 중대재해 청년 사망 보름...\"협력사 대표들이 노조 규탄 행동, 유족 가슴에 대못\"",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220915"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1586,15 +1656,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-17T03:53:10+00:00",
-      "last_success": "2026-11-17T03:53:10+00:00",
+      "last_attempt": "2026-11-17T13:25:04+00:00",
+      "last_success": "2026-11-17T13:25:04+00:00",
       "message": "정상 수집",
-      "new_count": 1,
+      "new_count": 6,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-17T03:53:10+00:00",
+      "last_attempt": "2026-11-17T13:25:04+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1803,11 +1873,11 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-17T03:53:10+00:00",
-      "last_success": "2026-11-16T20:28:26+00:00",
-      "message": "<urlopen error timed out>",
+      "last_attempt": "2026-11-17T13:25:04+00:00",
+      "last_success": "2026-11-17T13:25:04+00:00",
+      "message": "정상 수집",
       "new_count": 0,
-      "status": "error"
+      "status": "ok"
     }
   },
   "version": 1
