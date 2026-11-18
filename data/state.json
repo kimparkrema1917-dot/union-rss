@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1794921906.4355674,
-      "last_request": 1794975588.9767559,
+      "checked_at": 1795010272.363979,
+      "last_request": 1795010451.4094036,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1794922088.2044098,
-      "last_request": 1794975590.181588,
+      "last_request": 1795010452.5436933,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1794922091.6313818,
-      "last_request": 1794975591.1853147,
+      "checked_at": 1795010483.4849415,
+      "last_request": 1795010484.6148717,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1794921905.6383877,
-      "last_request": 1794921904.8745205,
+      "checked_at": 1795010271.4090497,
+      "last_request": 1795010270.5405273,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -516,8 +516,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-18T04:19:48+00:00",
-      "last_success": "2026-11-18T04:19:48+00:00",
+      "last_attempt": "2026-11-18T13:57:50+00:00",
+      "last_success": "2026-11-18T13:57:50+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -525,6 +525,16 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-18T13:57:50+00:00",
+          "id": "220922",
+          "published": "2026-11-18T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] HD현대삼호 청년 하청 노동자 중대재해 노동부 직무유기 고소고발 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220922"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1666,15 +1676,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-18T04:19:48+00:00",
-      "last_success": "2026-11-18T04:19:48+00:00",
+      "last_attempt": "2026-11-18T13:57:50+00:00",
+      "last_success": "2026-11-18T13:57:50+00:00",
       "message": "정상 수집",
       "new_count": 1,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-18T04:19:48+00:00",
+      "last_attempt": "2026-11-18T13:57:50+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1883,11 +1893,11 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-18T04:19:48+00:00",
+      "last_attempt": "2026-11-18T13:57:50+00:00",
       "last_success": "2026-11-18T04:19:48+00:00",
-      "message": "정상 수집",
+      "message": "<urlopen error timed out>",
       "new_count": 0,
-      "status": "ok"
+      "status": "error"
     }
   },
   "version": 1
