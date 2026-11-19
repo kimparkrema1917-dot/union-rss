@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1795010272.363979,
-      "last_request": 1795058803.3895261,
+      "last_request": 1795093484.3515506,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1795038991.9617076,
-      "last_request": 1795058804.9401486,
+      "last_request": 1795093485.7838106,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1795010483.4849415,
-      "last_request": 1795058806.0485544,
+      "last_request": 1795093486.860935,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -25,6 +25,16 @@
     "climatejusticealliance": {
       "fetched_count": 30,
       "items": [
+        {
+          "category": "알립니다",
+          "date_basis": "page_created",
+          "first_seen": "2026-11-19T13:04:44+00:00",
+          "id": "41d8542c-4cda-80e6-bf10-c1bad261fa62",
+          "published": "2026-11-19T14:29:42.402000+09:00",
+          "summary": "",
+          "title": "초광역특구법 저지를 위한 2가지 실천을 제안합니다!",
+          "url": "https://www.climatejusticealliance.kr/41d8542c-4cda-80e6-bf10-c1bad261fa62"
+        },
         {
           "category": "활동 소식",
           "date_basis": "page_created",
@@ -252,7 +262,7 @@
           "id": "3e98542c-4cda-800b-9c55-efca1bb1c486",
           "published": "2026-09-28T11:05:33.867000+09:00",
           "summary": "",
-          "title": "[신문] 290919 개발의 폭주를 멈추고, 모두의 삶을 풍요롭게",
+          "title": "[신문] 260919 개발의 폭주를 멈추고, 모두의 삶을 풍요롭게",
           "url": "https://www.climatejusticealliance.kr/3e98542c-4cda-800b-9c55-efca1bb1c486"
         },
         {
@@ -516,15 +526,25 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-19T03:26:43+00:00",
-      "last_success": "2026-11-19T03:26:43+00:00",
+      "last_attempt": "2026-11-19T13:04:44+00:00",
+      "last_success": "2026-11-19T13:04:44+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     },
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-19T13:04:44+00:00",
+          "id": "220924",
+          "published": "2026-11-19T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 금속노조 현대글로비스광주지회 조합원 전면파업 경고 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220924"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -572,7 +592,7 @@
           "id": "220919",
           "published": "2026-11-17T00:00:00+09:00",
           "summary": "",
-          "title": "[성명]원청교섭 거부 현대차, 정부는 언제까지 방치할 건가",
+          "title": "[성명] 원청교섭 거부 현대차, 정부는 언제까지 방치할 건가",
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220919"
         },
         {
@@ -1686,15 +1706,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-19T03:26:43+00:00",
-      "last_success": "2026-11-19T03:26:43+00:00",
+      "last_attempt": "2026-11-19T13:04:44+00:00",
+      "last_success": "2026-11-19T13:04:44+00:00",
       "message": "정상 수집",
       "new_count": 1,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-19T03:26:43+00:00",
+      "last_attempt": "2026-11-19T13:04:44+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1903,8 +1923,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-19T03:26:43+00:00",
-      "last_success": "2026-11-19T03:26:43+00:00",
+      "last_attempt": "2026-11-19T13:04:44+00:00",
+      "last_success": "2026-11-19T13:04:44+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
