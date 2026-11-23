@@ -1,23 +1,23 @@
 {
   "robots": {
     "https://kmwu.kr": {
-      "checked_at": 1795317212.1649861,
-      "last_request": 1795395149.3726344,
+      "checked_at": 1795424621.6862276,
+      "last_request": 1795424800.696557,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1795376329.7427454,
-      "last_request": 1795395150.97665,
+      "last_request": 1795424802.138982,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
-      "checked_at": 1795317394.387516,
-      "last_request": 1795395152.19832,
+      "checked_at": 1795424804.7702618,
+      "last_request": 1795424805.3120885,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
-      "checked_at": 1795317210.5927677,
-      "last_request": 1795317209.7203543,
+      "checked_at": 1795424620.6962032,
+      "last_request": 1795424619.8192186,
       "text": "User-agent: *\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /adm\r\nDisallow: /member"
     }
   },
@@ -526,8 +526,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-23T00:52:29+00:00",
-      "last_success": "2026-11-23T00:52:29+00:00",
+      "last_attempt": "2026-11-23T09:03:39+00:00",
+      "last_success": "2026-11-23T09:03:39+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -535,6 +535,46 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-23T09:03:39+00:00",
+          "id": "220929",
+          "published": "2026-11-23T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] HD현대삼호 중대재해 청년 노동자 스물여덟 번째 생일, 부모는 장례를 못 치르고 있습니다",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220929"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-23T09:03:39+00:00",
+          "id": "220928",
+          "published": "2026-11-23T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 제1회 2026 금속노조 언론상, 참여와혁신 정다솜·매일노동뉴스 임세웅 기자 선정",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220928"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-23T09:03:39+00:00",
+          "id": "220927",
+          "published": "2026-11-23T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 금속노조 웰리브지회-조선하청지회 공동파업 선포 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220927"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-23T09:03:39+00:00",
+          "id": "220926",
+          "published": "2026-11-23T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 한국지엠 노사, ‘2026 인천국제마라톤’ 함께 달려 \"지역사회 소통, 지속가능한 미래로\"",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220926"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1716,15 +1756,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-23T00:52:29+00:00",
-      "last_success": "2026-11-23T00:52:29+00:00",
+      "last_attempt": "2026-11-23T09:03:39+00:00",
+      "last_success": "2026-11-23T09:03:39+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 4,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-23T00:52:29+00:00",
+      "last_attempt": "2026-11-23T09:03:39+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1933,8 +1973,8 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-23T00:52:29+00:00",
-      "last_success": "2026-11-23T00:52:29+00:00",
+      "last_attempt": "2026-11-23T09:03:39+00:00",
+      "last_success": "2026-11-23T09:03:39+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
