@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1795424621.6862276,
-      "last_request": 1795468998.662011,
+      "last_request": 1795500114.3648477,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1795469000.7106647,
-      "last_request": 1795469001.909941,
+      "last_request": 1795500116.1345572,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1795424804.7702618,
-      "last_request": 1795469002.9181159,
+      "last_request": 1795500117.414264,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -25,6 +25,36 @@
     "climatejusticealliance": {
       "fetched_count": 30,
       "items": [
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-11-24T06:01:54+00:00",
+          "id": "4228542c-4cda-80a3-a259-ffcb321414b8",
+          "published": "2026-11-24T12:48:30.493000+09:00",
+          "summary": "",
+          "title": "공공재생에너지확대, 정의로운전환 위한 제대로 된 발전통합법 제정 요구 기자회견에 함께 했습니다!",
+          "url": "https://www.climatejusticealliance.kr/4228542c-4cda-80a3-a259-ffcb321414b8"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-11-24T06:01:54+00:00",
+          "id": "4228542c-4cda-801f-b028-f9a465767e4f",
+          "published": "2026-11-24T12:16:02.835000+09:00",
+          "summary": "",
+          "title": "11.14 가덕도 삽뜨지마! 서울투쟁버스 다녀왔어요!",
+          "url": "https://www.climatejusticealliance.kr/4228542c-4cda-801f-b028-f9a465767e4f"
+        },
+        {
+          "category": "활동 소식",
+          "date_basis": "page_created",
+          "first_seen": "2026-11-24T06:01:54+00:00",
+          "id": "4228542c-4cda-802d-97b0-ecbcb9c42922",
+          "published": "2026-11-24T12:01:44.970000+09:00",
+          "summary": "",
+          "title": "11.21 초광역특구법 저지 행진, 힘차게 함께 했습니다!",
+          "url": "https://www.climatejusticealliance.kr/4228542c-4cda-802d-97b0-ecbcb9c42922"
+        },
         {
           "category": "알립니다",
           "date_basis": "page_created",
@@ -526,15 +556,35 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-23T21:23:18+00:00",
-      "last_success": "2026-11-23T21:23:18+00:00",
+      "last_attempt": "2026-11-24T06:01:54+00:00",
+      "last_success": "2026-11-24T06:01:54+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 3,
       "status": "ok"
     },
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-24T06:01:54+00:00",
+          "id": "220931",
+          "published": "2026-11-24T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] 금속노조 웰리브지회-조선하청지회 공동파업 선포 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220931"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-24T06:01:54+00:00",
+          "id": "220930",
+          "published": "2026-11-24T00:00:00+09:00",
+          "summary": "",
+          "title": "[성명] 여성폭력 추방의 첫걸음, ILO 190호 협약 비준하라 -세계 여성폭력 추방의 날을 맞아",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220930"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1756,15 +1806,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-23T21:23:18+00:00",
-      "last_success": "2026-11-23T21:23:18+00:00",
+      "last_attempt": "2026-11-24T06:01:54+00:00",
+      "last_success": "2026-11-24T06:01:54+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 2,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-23T21:23:18+00:00",
+      "last_attempt": "2026-11-24T06:01:54+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1772,6 +1822,16 @@
     "leftall": {
       "fetched_count": 15,
       "items": [
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-24T06:01:54+00:00",
+          "id": "103",
+          "published": "2026-11-24T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 동희오토 민주노조 인정! 노동조건 향상! / 2026-11-24",
+          "url": "https://leftall.com/newsletter/103"
+        },
         {
           "category": "소식지",
           "date_basis": "published_day",
@@ -1973,10 +2033,10 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-23T21:23:18+00:00",
-      "last_success": "2026-11-23T21:23:18+00:00",
+      "last_attempt": "2026-11-24T06:01:54+00:00",
+      "last_success": "2026-11-24T06:01:54+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     }
   },
