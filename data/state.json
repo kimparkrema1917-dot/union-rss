@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1795645881.8932667,
-      "last_request": 1795646061.1586509,
+      "last_request": 1795669399.751443,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
-      "checked_at": 1795573688.0973454,
-      "last_request": 1795646062.3155663,
+      "checked_at": 1795669402.1296537,
+      "last_request": 1795669403.2356107,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1795646064.428185,
-      "last_request": 1795646065.3179867,
+      "last_request": 1795669404.4179614,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -556,8 +556,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-25T22:31:20+00:00",
-      "last_success": "2026-11-25T22:31:20+00:00",
+      "last_attempt": "2026-11-26T05:03:19+00:00",
+      "last_success": "2026-11-26T05:03:19+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -565,6 +565,36 @@
     "kmwu": {
       "fetched_count": 13,
       "items": [
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-26T05:03:19+00:00",
+          "id": "220934",
+          "published": "2026-11-26T00:00:00+09:00",
+          "summary": "",
+          "title": "[보도자료] HD현대삼호 청년 하청노동자 중대재해 노동부 목포지청장 직무유기 고발 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220934"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-26T05:03:19+00:00",
+          "id": "220933",
+          "published": "2026-11-26T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] GMTCK의 비정상적인 경영 행태 규탄 기자회견",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220933"
+        },
+        {
+          "category": "보도자료·성명",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-26T05:03:19+00:00",
+          "id": "220932",
+          "published": "2026-11-26T00:00:00+09:00",
+          "summary": "",
+          "title": "[취재요청] 27일 현대제철 원청교섭 첫 상견례, 비정규직지회 첫 요구 이후 5년만",
+          "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220932"
+        },
         {
           "category": "보도자료·성명",
           "date_basis": "published_day",
@@ -1806,15 +1836,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-25T22:31:20+00:00",
-      "last_success": "2026-11-25T22:31:20+00:00",
+      "last_attempt": "2026-11-26T05:03:19+00:00",
+      "last_success": "2026-11-26T05:03:19+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 3,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-25T22:31:20+00:00",
+      "last_attempt": "2026-11-26T05:03:19+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -1822,6 +1852,16 @@
     "leftall": {
       "fetched_count": 15,
       "items": [
+        {
+          "category": "소식지",
+          "date_basis": "published_day",
+          "first_seen": "2026-11-26T05:03:19+00:00",
+          "id": "104",
+          "published": "2026-11-26T00:00:00+09:00",
+          "summary": "",
+          "title": "[전국결집통신] 멕시코 셰인바움 대통령의 좌파 정치 / 2026-11-26",
+          "url": "https://leftall.com/newsletter/104"
+        },
         {
           "category": "소식지",
           "date_basis": "published_day",
@@ -2033,10 +2073,10 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-25T22:31:20+00:00",
-      "last_success": "2026-11-25T22:31:20+00:00",
+      "last_attempt": "2026-11-26T05:03:19+00:00",
+      "last_success": "2026-11-26T05:03:19+00:00",
       "message": "정상 수집",
-      "new_count": 0,
+      "new_count": 1,
       "status": "ok"
     }
   },
