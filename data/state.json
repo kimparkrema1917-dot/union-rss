@@ -2,17 +2,17 @@
   "robots": {
     "https://kmwu.kr": {
       "checked_at": 1795831134.823949,
-      "last_request": 1795831313.8510544,
+      "last_request": 1795861563.7795322,
       "text": "User-agent: *\r\nAllow:/\r\nDisallow: /adm/\r\nCrawl-delay:180"
     },
     "https://leftall.com": {
       "checked_at": 1795768228.2375903,
-      "last_request": 1795831315.3316407,
+      "last_request": 1795861565.4264305,
       "text": "User-agent: *\nAllow: /\n"
     },
     "https://www.climatejusticealliance.kr": {
       "checked_at": 1795831317.7585294,
-      "last_request": 1795831318.4936156,
+      "last_request": 1795861566.3646352,
       "text": "User-agent: *\nAllow: /\nDisallow: /_private/\n\nSitemap: https://www.climatejusticealliance.kr/sitemap.xml"
     },
     "https://www.kptu.net": {
@@ -556,8 +556,8 @@
           "url": "https://www.climatejusticealliance.kr/3608542c-4cda-80e4-a595-c229f69efcfa"
         }
       ],
-      "last_attempt": "2026-11-28T01:58:52+00:00",
-      "last_success": "2026-11-28T01:58:52+00:00",
+      "last_attempt": "2026-11-28T10:26:03+00:00",
+      "last_success": "2026-11-28T10:26:03+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
@@ -1856,15 +1856,15 @@
           "url": "https://kmwu.kr/bbs/board.php?bo_table=ce_B12&wr_id=220808"
         }
       ],
-      "last_attempt": "2026-11-28T01:58:52+00:00",
-      "last_success": "2026-11-28T01:58:52+00:00",
+      "last_attempt": "2026-11-28T10:26:03+00:00",
+      "last_success": "2026-11-28T10:26:03+00:00",
       "message": "정상 수집",
       "new_count": 0,
       "status": "ok"
     },
     "kptu": {
       "items": [],
-      "last_attempt": "2026-11-28T01:58:52+00:00",
+      "last_attempt": "2026-11-28T10:26:03+00:00",
       "message": "robots.txt가 UnionRSS의 자동 수집을 허용하지 않습니다.",
       "new_count": 0,
       "status": "blocked"
@@ -2103,11 +2103,11 @@
           "url": "https://leftall.com/newsletter/71"
         }
       ],
-      "last_attempt": "2026-11-28T01:58:52+00:00",
+      "last_attempt": "2026-11-28T10:26:03+00:00",
       "last_success": "2026-11-28T01:58:52+00:00",
-      "message": "정상 수집",
-      "new_count": 1,
-      "status": "ok"
+      "message": "robots.txt 대신 HTML이 반환되어 수집을 보류합니다.",
+      "new_count": 0,
+      "status": "error"
     }
   },
   "version": 1
